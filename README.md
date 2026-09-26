@@ -3,7 +3,6 @@
 > **Autonomous Graph-Obfuscated AML Smurfing & High-Frequency Sanctions Evasion Radar**  
 > *Temporal Bipartite Graph Detection Engine & Automated FinCEN BSA XML Synthesizer*  
 > Direct Integration with **[a2zsoc.com](https://a2zsoc.com)** Evidence Vault  
-> Connected to **2,000 Workflows**: `Cluster_03 (AML/KYC)` & `Cluster_10 (SOX 404 / BSA / OFAC)`
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://python.org)
@@ -61,16 +60,13 @@ flowchart TD
 
 ---
 
-## 🔄 Linkage to the 2,000 Workflows Ecosystem
+## 🔄 Financial Crime & BSA/AML Regulatory Coverage
 
-This standalone engine executes workflows in:
-* **[`fintech_payments_banking_1000_workflows/Cluster_03_AML_KYC_Identity_Sanctions_Screening_0201_0300`](file:///Users/ahmedhassan/Downloads/2000%20workflows/fintech_payments_banking_1000_workflows/Cluster_03_AML_KYC_Identity_Sanctions_Screening_0201_0300)**:
-  * Workflows `0201–0240`: Real-time sanctions list matching (OFAC SDN, EU, UK HMT).
-  * Workflows `0241–0270`: High-velocity structuring and smurfing behavioral detection.
-  * Workflows `0271–0300`: Beneficial ownership (UBO) resolution across multi-tier accounts.
-* **[`fintech_payments_banking_1000_workflows/Cluster_10_SOX404_BSA_OFAC_Exam_Readiness_0901_1000`](file:///Users/ahmedhassan/Downloads/2000%20workflows/fintech_payments_banking_1000_workflows/Cluster_10_SOX404_BSA_OFAC_Exam_Readiness_0901_1000)**:
-  * Workflows `0901–0940`: Automated FinCEN SAR XML package synthesis and filing validation.
-  * Workflows `0941–1000`: OCC / FinCEN examination workpaper compilation.
+This standalone engine codifies and automates continuous anti-money laundering controls:
+* **Bank Secrecy Act (BSA) & FinCEN E-Filing**: Automated synthesis of compliant FinCEN SAR XML 2.0 packages.
+* **Structuring & Smurfing Detection**: Graph-algorithmic discovery of micro-bursts intended to evade $10,000 Currency Transaction Report (CTR) thresholds.
+* **Multi-Rail Traceability**: Unified bipartite transaction graph linking cash kiosk deposits (Fawry), mobile wallets, and instant rails (FedNow/SEPA).
+* **Sanctions & PEP Screening**: High-precision graph resolution preventing false-positive alert fatigue.
 
 ---
 
