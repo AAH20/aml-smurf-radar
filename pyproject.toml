@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aml-smurf-radar"
+version = "1.0.0"
+description = "Autonomous Graph-Obfuscated AML Smurfing & High-Frequency Sanctions Evasion Radar"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Ahmed Hassan", email = "contact@a2zsoc.com" }
+]
+dependencies = []
+
+[project.scripts]
+aml-radar = "aml_smurf_radar.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["aml_smurf_radar*"]
